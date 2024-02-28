@@ -1,7 +1,7 @@
 en:
   languageName: En
   title: Bigspring Hugo
-  contentDir: content/english
+  # contentDir: content/english
   weight: 1
   footer_menu_left: Company
   footer_menu_middle: Product
